@@ -24,4 +24,6 @@ I am using this repo to muck about with the new features from ES6. I'm also expe
 * [Getting started with Browserify](http://www.sitepoint.com/getting-started-browserify/) tutorial from [Sitepoint](http://www.sitepoint.com/)
 * [Setting up an ES6 Project Using Babel and Browserify](http://www.sitepoint.com/setting-up-es6-project-using-babel-browserify/) tutorial from [Sitepoint](http://www.sitepoint.com/)
 * [count-to-6](https://github.com/domenic/count-to-6) workshopper from [NodeSchools](http://nodeschool.io/)
+* [esnext-generation](https://github.com/jesstelford/esnext-generation) workshopper from [NodeSchools](http://nodeschool.io/)
+* [learn-generators](https://github.com/isRuslan/learn-generators) workshopper from [NodeSchools](http://nodeschool.io/)
 * [tower-of-babel](https://github.com/yosuke-furukawa/tower-of-babel) workshopper from [NodeSchools](http://nodeschool.io/)
