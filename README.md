@@ -26,4 +26,5 @@ I am using this repo to muck about with the new features from ES6. I'm also expe
 * [count-to-6](https://github.com/domenic/count-to-6) workshopper from [NodeSchools](http://nodeschool.io/)
 * [esnext-generation](https://github.com/jesstelford/esnext-generation) workshopper from [NodeSchools](http://nodeschool.io/)
 * [learn-generators](https://github.com/isRuslan/learn-generators) workshopper from [NodeSchools](http://nodeschool.io/)
+* [promise-it-wont-hurt](https://github.com/stevekane/promise-it-wont-hurt) workshopper from [NodeSchools](http://nodeschool.io/)
 * [tower-of-babel](https://github.com/yosuke-furukawa/tower-of-babel) workshopper from [NodeSchools](http://nodeschool.io/)
